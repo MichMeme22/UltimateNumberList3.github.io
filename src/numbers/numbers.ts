@@ -419,6 +419,21 @@ const NumberList: Chapters = [
                                         symbols: []
                                     },
                                     {
+                                        word: "Twenty-Three",
+                                        number: "23",
+                                        symbols: []
+                                    },
+                                    {
+                                        word: "Twenty-Four",
+                                        number: "24",
+                                        symbols: []
+                                    },
+                                    {
+                                        word: "Twenty-Five",
+                                        number: "25",
+                                        symbols: []
+                                    },
+                                    {
                                         word: "Thirty",
                                         number: "30",
                                         symbols: []
@@ -454,6 +469,11 @@ const NumberList: Chapters = [
                                         symbols: []
                                     },
                                     {
+                                        word: "Ninety-Nine",
+                                        number: "99",
+                                        symbols: []
+                                    },
+                                    {
                                         word: "One Hundred",
                                         number: "100",
                                         symbols: [
@@ -465,6 +485,11 @@ const NumberList: Chapters = [
                             {
                                 name: "Advanced Numbers",
                                 listnumbers: [
+                                    {
+                                        word: "Two Hundred",
+                                        number: "200",
+                                        symbols: []
+                                    },
                                     {
                                         word: "Five Hundred",
                                         number: "500",
@@ -481,6 +506,11 @@ const NumberList: Chapters = [
                                         symbols: [
                                             "featured",
                                         ]
+                                    },
+                                    {
+                                        word: "Two Thousand Fourty-Eight",
+                                        number: "2,048",
+                                        symbols: []
                                     },
                                     {
                                         word: "One Myriad",
@@ -729,6 +759,11 @@ const NumberList: Chapters = [
                                     {
                                         word: "Googolty",
                                         number: "10^101",
+                                        symbols: []
+                                    },
+                                    {
+                                        word: "Centillion",
+                                        number: "10^303",
                                         symbols: []
                                     }
                                 ]
