@@ -415,6 +415,21 @@ const NumberList: Chapter[] = [
                                         symbols: []
                                     },
                                     {
+                                        word: "Twenty-Three",
+                                        number: "23",
+                                        symbols: []
+                                    },
+                                    {
+                                        word: "Twenty-Four",
+                                        number: "24",
+                                        symbols: []
+                                    },
+                                    {
+                                        word: "Twenty-Five",
+                                        number: "25",
+                                        symbols: []
+                                    },
+                                    {
                                         word: "Thirty",
                                         number: "30",
                                         symbols: []
